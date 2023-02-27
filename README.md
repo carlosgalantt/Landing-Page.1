@@ -10,7 +10,7 @@
 
 ![criativo](https://user-images.githubusercontent.com/123756073/220761175-434cbe18-a1b6-40e5-923f-1cc13a182deb.png)
 
-## 🛠 Tecnologias
+## 🚀 Tecnologias
 ### feito exclusivamente por meio do Visual Studio Code
 
 ## 🦸 Autor
